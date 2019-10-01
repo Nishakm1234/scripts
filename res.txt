@@ -1,0 +1,10 @@
+1 anu unisys 87 58 98 81 Distinction
+2 bindhu tcs 67 87 45 66 First Class
+3 chandini tcs 24 43 13 26 Fail
+4 deepa lt 78 89 96 87 Distinction
+5 fahid wipro 43 54 63 53 Second Class
+6 geetha lt 54 45 46 48 Third Class
+7 neha ibm 34 67 56 52 Second Class
+8 nisha lt 78 89 90 85 Distinction
+9 seema lt 56 66 76 66 First Class
+10 rithu lt 45 56 67 56 Second Class
